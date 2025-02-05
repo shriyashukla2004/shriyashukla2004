@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shriya
-- 👀 I’m interested in Web Development and Cyber Security.
+- 👀 I’m interested in Data Analytics and Data Engineering.
 - 🌱 I’m currently learning Btech (Electronics and Computer Science).
 - 💞️ I’m looking to collaborate on Github with various web developers so that i can learn new things from them.
 - 😄 Pronouns: She/Her
