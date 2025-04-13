@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shriya
-- 👀 I’m interested in Data Analytics and Data Engineering.
-- 🌱 I’m currently learning Btech (Electronics and Computer Science).
-- 💞️ I’m looking to collaborate on Github with various web developers so that i can learn new things from them.
+- 👀 I’m interested in Data Analytics.
+- 🌱 I’m currently pursuing Btech in Electronics and Computer Science.
+- 💞️ I’m looking to collaborate on Github with various data analyst so that i can learn new things from them.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Not a fun fact but I love talking with new people and make new friends.
 
