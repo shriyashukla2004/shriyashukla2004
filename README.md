@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shriyaa0902@gmail.com**
 
-- ⚡ Fun fact **Ok Not a fun fact but I love theatrics and Acting**
+- ⚡ Fun fact **ok not a fun fact but I love theatrics and Acting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
