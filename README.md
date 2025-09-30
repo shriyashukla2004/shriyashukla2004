@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Sales Forecasting Analytics**
 
-- 🌱 I’m currently learning **Quantitative Research**
+- 🌱 I’m currently learning **Quantitative Research & Forecasting**
 
 - 👯 I’m looking to collaborate on **Data Analytics Projects**
 
@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/shriyaa0902](https://www.datascienceportfol.io/shriyaa0902)
 
-- 💬 Ask me about **Data Analysis and Forecasting**
+- 💬 Ask me about **Data Analytics & Data Science**
 
 - 📫 How to reach me **shriyaa0902@gmail.com**
 
-- ⚡ Fun fact **ok not a fun fact but I love theatrics and Acting**
+- ⚡ Fun fact **Not a fun fact but I love theatrics and Acting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
